@@ -1,3 +1,3 @@
 # odin-recipes
-A project from odin project
+A project from odin project<br>
 This is a simple HTML project where i learned about links,images,ordered and unordered lists
